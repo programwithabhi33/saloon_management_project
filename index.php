@@ -32,7 +32,7 @@
           <div class="text-center relative z-10 w-full">
             <h2 class="text-5xl text-gray-900 font-medium title-font mb-2">Shooting Stars</h2>
             <p class="leading-relaxed text-gray-300">Skateboard +1 mustache fixie paleo lumbersexual.</p>
-            <a class="mt-3 text-gray-100 inline-flex items-center bg-indigo-500 rounded-md p-2 cursor-pointer">Book Now
+            <a href="./pages/book-appointment.php" class="mt-3 text-gray-100 inline-flex items-center bg-indigo-500 rounded-md p-2 cursor-pointer">Book Appointment Now
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                 class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
