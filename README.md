@@ -1,0 +1,1 @@
+1. Create a database named **saloon_management**
